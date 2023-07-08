@@ -1,3 +1,4 @@
+# Run the _init_, connect to views and auth
 from flask import Flask
 
 def create_app():

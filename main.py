@@ -1,6 +1,7 @@
 # July 7 2023
+# Using this file to open and run the app
 
-from website.template._init_ import create_app
+from website._init_ import create_app
 
 app = create_app()
 
